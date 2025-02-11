@@ -14,17 +14,17 @@
     "element-ui": "^2.10.0",
     "gzip-js": "^0.3.2",
     "moment": "^2.24.0",
-    "vue": "^2.6.6",
-    "webpack-obfuscator": "^0.18.0"
+    "vue": "^3.0.0",
+    "webpack-obfuscator": "^3.5.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-plugin-eslint": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.7.16"
   },
   "postcss": {
     "plugins": {
